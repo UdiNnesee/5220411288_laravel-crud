@@ -49,7 +49,7 @@
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Harga : </strong>
-                <input type="text" name="Harga" class="form-control" placeholder="Harga">
+                <input type="text" name="Harga" class="form-control" value="" placeholder="Harga">
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">

@@ -28,7 +28,7 @@
             <th scope="row">{{ $product->id }}</th>
             <td>{{ $product->Nama_Produk }}</td>
             <td>{{ $product->Stok }}</td>
-            <td>{{ $product->Harga }}</td>
+            <td>Rp {{ $product->Harga }}</td>
             <td>{{ $product->Spesifikasi }}</td>
         </tr>
     </tbody>
